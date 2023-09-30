@@ -6,7 +6,7 @@ This repository is for managing tasks related to WEB PROGRAMMING.
 ## Task Details
 
 - Task Name: WP
-- Assigned To:WALEED
+- Assigned To: WALEED
 
 ## Task Description
 
